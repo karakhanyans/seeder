@@ -1,0 +1,21 @@
+{
+    "name": "karakhanyans/seeder",
+    "description": "Export your database into Seeds",
+    "type": "library",
+    "homepage": "https://github.com/karakhanyans/seeder",
+    "keywords": ["laravel", "seeder", "database", "model", "laravel-seeder"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Karakhanyan",
+            "email": "karakhanyansa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Karakhanyans\\Seeder\\": "/src"}
+    },
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
