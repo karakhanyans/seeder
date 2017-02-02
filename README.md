@@ -1,8 +1,9 @@
 # Database Seeder
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/karakhanyans/seeder.svg)][link-packagist]
+[![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
+
 
 Seeder creates an artisan command that lets you quickly create seeds from your existing database.
 
