@@ -3,7 +3,7 @@
     "description": "Export your database into Seeds",
     "type": "library",
     "homepage": "https://github.com/karakhanyans/seeder",
-    "keywords": ["laravel", "seeder", "database", "model", "laravel-seeder"],
+    "keywords": ["laravel", "seeder", "database", "model", "laravel-seeder","eloquent"],
     "license": "MIT",
     "authors": [
         {
